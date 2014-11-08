@@ -3,6 +3,12 @@ Introduction-to-JavaScript
 
 This Repository contains an introductory course for people to learn JavaScript and its place in the web today. The course is designed to be administered by a knowledgeable person and at key points it is expected that a group discussion will provide insights that are not provided for in the material. In other words this is a supplementary coarse :)
 
+
+##Prerequisites
+- Around one hour of light reading beforehand
+- <a href="https://support.google.com/chrome/answer/95346?hl=en" target="_blank">Installation of Google Chrome</a>
+- <a href="http://www.sublimetext.com/2" target="_blank">Installation of Sublime Text 2</a>
+
 ##How to use this Git Repository
 
 Firstly let me just say Git is awesome and in another lesson you will learn about its Awesomeness. So knowing that, it should be pointed out that this lesson uses Git and GitHub in a slightly different way to the norm - Git branches are being used as lesson chapters rather then version controlled development branches.
