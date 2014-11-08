@@ -1,23 +1,23 @@
 Introduction-to-JavaScript
 ==========================
 
-This Repository contains an introductory course for people to learn JavaScript and its place in the web today. The course is designed to be administered by a knowledgeable person and at key points it is expected that a group discussion will provide insights that are not provided for in the material.
+This Repository contains an introductory course for people to learn JavaScript and its place in the web today. The course is designed to be administered by a knowledgeable person and at key points it is expected that a group discussion will provide insights that are not provided for in the material. In other words this is a supplementary coarse :)
 
-How to use this Git Repository
-==============================
-Firstly let me just say Git is awesome and in another lesson you will learn about its Awesomeness. So knowing that, it should be pointed out that this lesson uses Git and GitHub in a slightly different way - Git branches are being used as lesson chapters rather then the normal version controlled development branches.
+##How to use this Git Repository
+
+Firstly let me just say Git is awesome and in another lesson you will learn about its Awesomeness. So knowing that, it should be pointed out that this lesson uses Git and GitHub in a slightly different way to the norm - Git branches are being used as lesson chapters rather then version controlled development branches.
 
 What this means is that as you complete one chapter of work you then move to the next by selecting the next chapter/branch. Also note that the README.md will change from chapter to chapter as well as the contents of the base folder. You can move between these as and when you need.
 
-On organising your code: Please set up a different folder for each of the chapters. When starting a chapter the contents of the base folder will be your starting point. This means you will be able to concentrate on the learning of each chapter rather than having to get the code working a certain way.
+On organising your code: Please set up a different folder for each of the chapters. When starting a chapter the contents of the base folder will be your starting point. This means you will be able to concentrate on the learnings of each chapter rather than having to get the code working a certain way.
 
-Guideline for asking for help
-=============================
-When asking help, whether of a facilitator or fellow learner try to present the problem you are facing in a concise manner and any options you are dwelling upon. That way you will move on from the current learning problem as fast as possible and also practice this crucial form of efficient and logical communication.
+##Guideline for asking for help
 
-Learning Goals
-==============
-Working through the course is a learning journey where the destination of achieving a result is less important then the learnings along the way. With this in mind here is a list of learning goals for this course. Use them as a measure of how you are doing and whether or not you can move onto the next chapter, even if you have not finished the current task you are on. The goal is to learn, so ask yourself "Do I understand the learning objective for this chapter" If the answer is yes then you should move onto the next part. 
+When asking help of someone, whether of a facilitator or fellow learner try to present the problem you are facing in a concise manner and ideally put forward any options you are dwelling upon. That way you will move on from the current learning problem as fast as possible and also practice this crucial form of efficient and logical communication.
+
+##Learning Goals
+
+Working through the course is a learning journey where the destination of achieving a result is less important then the learnings along the way. With this in mind here is a list of learning goals for this course. Use them as a measure of how you are doing and whether or not you can move onto the next chapter, even if you have not finished the current task you are on. The goal is to learn, so ask yourself "Do I understand the learning objectives for this chapter" If the answer is yes then you should move onto the next part. 
 
 If you are unsure call over a facilitator and ask them what they think about you moving on. Learning Goals will be elaborated on at the top of each chapter.
 
@@ -36,3 +36,6 @@ If you are unsure call over a facilitator and ask them what they think about you
  - Understand what a String, Integer (int) and Boolean (bool) are.
  - Understand what a While and For loop are.
  - Know how to use an If statement.
+
+##Dues where dues are due
+A shout out to all the geeks, nerds and hacks who came before me, who's work  makes my life easier and funner.
