@@ -5,7 +5,11 @@ This Repository contains an introductory course for people to learn JavaScript a
 
 How to use this Git Repository
 ==============================
-Firstly let me just say Git is awesome and in another lesson you will learn about this Awesomeness. So knowing that it should be pointed out that this lesson uses Git and GitHub in a slightly different way - Git branches are being used as lesson chapters rather then the normal version controlled development branches.
+Firstly let me just say Git is awesome and in another lesson you will learn about its Awesomeness. So knowing that, it should be pointed out that this lesson uses Git and GitHub in a slightly different way - Git branches are being used as lesson chapters rather then the normal version controlled development branches.
+
+What this means is that as you complete one chapter of work you then move to the next by selecting the next chapter/branch. Also note that the README.md will change from chapter to chapter as well as the contents of the base folder. You can move between these as and when you need.
+
+On organising your code: Please set up a different folder for each of the chapters. When starting a chapter the contents of the base folder will be your starting point. This means you will be able to concentrate on the learning of each chapter rather than having to get the code working a certain way.
 
 Guideline for asking for help
 =============================
