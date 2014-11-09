@@ -10,8 +10,8 @@ This Repository contains an introductory course for people to learn JavaScript a
 - <a href="http://www.sublimetext.com/2" target="_blank">Installation of Sublime Text 2</a>
 
 ##Readings and Viewings
-<a href="https://www.youtube.com/watch?v=4-t4sA5dDmA" target="_blank">Watch this 16 min video</a> on the history of JavaScript.\s\s
-Skim through the various branches of the course so you have an idea of what you will be doing on the day.\s\s
+<a href="https://www.youtube.com/watch?v=4-t4sA5dDmA" target="_blank">Watch this 16 min video</a> on the history of JavaScript.  
+Skim through the various branches of the course so you have an idea of what you will be doing on the day.  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript" target="_blank">Read the introduction of this document</a> on the Mozilla Development Network. Please feel free to skim through the rest of the document - it contains a lot of what we will be covering in the coarse. So note down any questions you might have and bring them along.
 
 ##How to use this Git Repository
