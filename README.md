@@ -17,11 +17,11 @@ Read the introduction of a href="https://developer.mozilla.org/en-US/docs/Web/Ja
 ##How to use this Git Repository
 Firstly let me just say Git is awesome and in another lesson you will learn about its Awesomeness. So knowing that, it should be pointed out that this lesson uses Git and GitHub in a slightly different way to the norm - Git branches are being used as lesson chapters rather then version controlled development branches. The coarse will refer to these as branches to avoid confusion.
 
-What this means is that as you complete one branch of work you then move to the next by selecting the next branch. Also note that the README.md will change from branch to branch describing the next steps for you to do. 
+What this means is that as you complete one branch of work you then move to the next by selecting the next branch. Also note that the README.md will change from branch to branch describing the next steps for you to do. Also note the "master" branch is the root of the project and contains the introductory README.md, this is always the default directory that is downloaded no matter what branch you are looking at.
 
-To get started download the GitHub Repo as a zip and extract it where ever you would like to save your work.
+To get started download the GitHub Repo as a zip and extract it where ever you would like to save your work. (its a button to the right)
 
-On organising your code: Please add your files to the appropriate folder inside the folder you extracted the zip to. When starting a branch the contents of the base folder will be your starting point. This means you will be able to concentrate on the learnings of each branch rather than having to get the code working a certain way.
+On organising your code: Please add your files to the appropriate folder inside the "base" folder you extracted. When starting a branch the contents of the base folder will be your starting point. This means you will be able to concentrate on the learnings of each branch rather than having to get the code working a certain way.
 
 ##Guideline for asking for help
 When asking help of someone, whether of a facilitator or fellow learner try to present the problem you are facing in a concise manner and ideally put forward any options you are dwelling upon. That way you will move on from the current learning problem as fast as possible and also practice this crucial form of efficient and logical communication.
